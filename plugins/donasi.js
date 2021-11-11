@@ -1,12 +1,11 @@
 let handler = async m => m.reply(`
 ┌〔 Donasi • Pulsa 〕
-├ Axis [083128734012]
-├ BYU [085157336614]
+├ Tri [089603042257]
 └────
 
 ┌〔 Donasi • Emoney 〕
-├ OVO, Dana [083128734012]
-├ https://saweria.co/ariffb
+├ Dana [089603042357]
+├ https://saweria.co/haikalofc
 └────
 `.trim())
 handler.help = ['donasi']
